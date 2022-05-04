@@ -1,0 +1,10 @@
+okhttp3:
+  enabled: true
+  connect-timeout: 10
+  follow-redirects: false
+  follow-ssl-redirects: false
+  keep-alive-duration: 60s
+  ping-interval: 0
+  read-timeout: 10
+  retry-on-connection-failure: false
+  write-timeout: 10
